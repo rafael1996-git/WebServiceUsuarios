@@ -1,0 +1,6 @@
+com\ine\WebSeviceUsuarios\service\CatalogoUsuarioService.class
+com\ine\WebSeviceUsuarios\App.class
+com\ine\WebSeviceUsuarios\hibernate\HibernateUtil.class
+com\ine\WebSeviceUsuarios\dto\Usuarios.class
+com\ine\WebSeviceUsuarios\dao\DataBaseConnection.class
+com\ine\WebSeviceUsuarios\dto\ResponseOK.class
